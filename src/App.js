@@ -40,11 +40,4 @@ function App() {
   );
 }
 
-<div>
-  <a href="#" target="_blank">
-    Open-source code
-  </a>
-  , by Iqra
-</div>;
-
 export default App;
